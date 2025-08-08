@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Neeraj Seetha — Techie | AI Agent Developer | FastAPI & LangGraph Enthusiast
+# 👋 Hi, I'm Neeraj Seetha — Techie | AI Agent Developer | FastAPI & LangGraph Enthusiast
 
 🚀 I build **production-grade AI agent systems**, **real-time backends**, and **scalable RAG pipelines**.
 Currently focused on **LangGraph**, **FastAPI**, and **LLM Ops** — creating intelligent, context-aware systems for real-world applications.

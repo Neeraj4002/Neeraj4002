@@ -5,6 +5,7 @@ Currently focused on **LangGraph**, **FastAPI**, and **LLM Ops** — creating in
 
 ---
 
+
 ## 🛠 Tech Stack & Skills
 
 - **Backend & APIs:** FastAPI, WebSockets, asyncio, Dependency Injection
@@ -48,6 +49,7 @@ Currently focused on **LangGraph**, **FastAPI**, and **LLM Ops** — creating in
 - **Performance optimized** for Render — reduced FAISS + embedding loading times drastically
 - Multi-LLM strategy for **cost-efficient, accurate responses**
 - [https://github.com/Neeraj4002/Dark_Matter_NexBo.git](#) *(private/coming soon)*
+- https://certificate.hack2skill.com/user/gdgscsubmissions-1/2025H2S01GSC-I100133
 ---
 
 ## 📈 Current Focus

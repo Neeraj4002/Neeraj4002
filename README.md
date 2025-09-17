@@ -50,6 +50,7 @@ Currently focused on **LangGraph**, **FastAPI**, and **LLM Ops** — creating in
 - Multi-LLM strategy for **cost-efficient, accurate responses**
 - [https://github.com/Neeraj4002/Dark_Matter_NexBo.git](#) *(private/coming soon)*
 - https://certificate.hack2skill.com/user/gdgscsubmissions-1/2025H2S01GSC-I100133
+- https://certificate.hack2skill.com/user/isrobah25/2025H2S06BAH25-P14129
 ---
 
 ## 📈 Current Focus

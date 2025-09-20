@@ -1,6 +1,6 @@
-#  Hi, I'm Neeraj Seetha — Techie | AI Agent Developer | FastAPI & LangGraph Enthusiast
+                      🌠Hi, I'm Neeraj Seetha — Techie | AI Agent Developer | FastAPI & LangGraph Enthusiast
 
- I build **production-grade AI agent systems**, **real-time backends**, and **scalable RAG pipelines**.
+ I build **AI agent systems**, **real-time backends**, and **scalable RAG pipelines**.
 Currently focused on **LangGraph**, **FastAPI**, and **LLM Ops** — creating intelligent, context-aware systems for real-world applications.
 
 ---
@@ -8,13 +8,13 @@ Currently focused on **LangGraph**, **FastAPI**, and **LLM Ops** — creating in
 
 ## 🛠 Tech Stack & Skills
 
-- **Backend & APIs:** FastAPI, WebSockets, asyncio, Dependency Injection
+- **Backend & APIs:** FastAPI, WebSockets, asyncio
 - **AI Orchestration:** LangGraph (state machines, events), LangChain
 - **Vector DBs:** FAISS, Pinecone, Chroma
 - **LLM Ops:** Prompt engineering, Cost optimization, Multi-LLM routing (Gemini, GPT-4o, Claude)
 - **Programming:** Python 3.10+, Type hints, Testing (pytest)
-- **Frontend Integration:** Leaflet.js, WebSocket-based real-time updates
-- **Deployment:** Render,Vercel, GitHub Actions
+- **Frontend Integration:** Flutter, Leaflet.js, WebSocket-based real-time updates
+- **Deployment:** Render,Vercel
 
 ---
 

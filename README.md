@@ -13,7 +13,7 @@ Currently focused on **LangGraph**, **FastAPI**, and **LLM Ops** — creating in
 - **Vector DBs:** FAISS, Pinecone, Chroma
 - **LLM Ops:** Prompt engineering, Cost optimization, Multi-LLM routing (Gemini, GPT-4o, Claude)
 - **Programming:** Python 3.10+, Type hints, Testing (pytest)
-- **Frontend Integration:** Flutter, Leaflet.js, WebSocket-based real-time updates
+- **Frontend Integration:** Flutter, TypeScript,Next.js,React.js, Leaflet.js, WebSocket-based real-time updates
 - **Deployment:** Render,Vercel
 
 ---

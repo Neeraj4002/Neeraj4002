@@ -27,7 +27,7 @@ Social media broke when it started optimizing for engagement over connection. Sa
 
 ## 🧠 AI Agents
 
-### NexBo — *Finance Agent with RAG Knowledge*
+### [NexBo](https://nexbo-front.vercel.app/) — *Finance Agent with RAG Knowledge*
 Built for a **Google Hackathon**. NexBo is a finance-focused AI agent grounded in book knowledge via RAG — ask it anything about personal finance, investing, or economics and it answers from curated, trustworthy sources instead of hallucinating.
 
 - Agent architecture with retrieval-augmented generation
@@ -36,22 +36,22 @@ Built for a **Google Hackathon**. NexBo is a finance-focused AI agent grounded i
 
 ---
 
-### Digital Twin — *Financial Simulation Engine*
+### [Digital Twin](https://digital-twin-ten-self.vercel.app/) — *Financial Simulation Engine*
 An MBA student needed a way to simulate how a business behaves under different economic conditions. Built a financial digital twin that reacts dynamically to **inflation** and **interest rate** changes.
 
 - 🌐 **Live deployed URL**
 - Real-time simulation with adjustable macro parameters
-- Flutter + FastAPI
+- React + TypeScript + Vite + FastAPI
 
 ---
 
 ## 📱 App Development
 
-### Bohr — *10,000 Hours, Tracked*
+### [Bohr](https://bohr-ochre.vercel.app/) — *10,000 Hours, Tracked*
 Built out of boredom. Ended up being something useful. Bohr is a productivity app built around the concept of deliberate skill mastery — it guides users through structured practice toward the 10,000-hour milestone.
 
 - 🌐 **Live deployed URL**
-- Flutter + FastAPI
+- TypeScript + FastAPI
 - Clean habit + focus tracking with mastery arcs
 
 ---
@@ -66,7 +66,7 @@ Built to help students stop drifting and start moving with purpose. Momentum hel
 
 ## 🛠️ Client Projects
 
-### Bus Tracker — *Campus GPS Tracking PWA*
+### [Bus Tracker](https://github.com/Neeraj4002/Geo_tracker) — *Campus GPS Tracking PWA*
 A college needed real-time bus tracking for their campus fleet. Built a **Progressive Web App** that lets students track live bus locations without installing anything.
 
 - GPS tracking + real-time updates
@@ -83,7 +83,7 @@ An MBA student needed a way to simulate how a business behaves under different e
 - Flutter + FastAPI
 ---
 
-### SVM Fish Disease Detection — *College MVP*
+### [SVM Fish Disease Detection](https://github.com/Neeraj4002/SVM_Fish-Detection) — *College MVP*
 A college student needed a deployable ML model to classify fish diseases from images. Trained an SVM classifier and wrapped it into a deployed MVP they could actually use and present.
 
 - SVM-based image classification
